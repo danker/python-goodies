@@ -37,3 +37,7 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# test files
+test.txt
+test.json
